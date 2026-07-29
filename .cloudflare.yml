@@ -1,0 +1,14 @@
+___
+files:
+  - path: /.cloudflare/deploy.json
+    content: |
+      {
+        "build_command": "mkdocs build",
+        "build_output_dir": "site",
+        "root_dir": "/",
+        "environment": {
+          "PYTHON_VERSION": "3.11"
+        }
+      }
+
+pages_build_output_dir: site

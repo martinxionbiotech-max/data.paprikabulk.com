@@ -1,0 +1,41 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swp
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# Python/MkDocs
+__pycache__/
+*.pyc
+*.pyo
+site/
+.cache/
+
+# Temp
+*.tmp
+*~
+*.bak
+
+# OS generated
+.DS_Store*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# MkDocs build
+site/
+
+# Git
+*.orig
+
+# Environment
+.env
+.env.local

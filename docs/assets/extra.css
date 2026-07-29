@@ -1,0 +1,87 @@
+/* Extra styles for Paprikabulk.com documentation */
+
+/* Improve table readability */
+.md-typeset table:not([class]) th {
+  background-color: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+  font-weight: 700;
+}
+
+.md-typeset table:not([class]) td {
+  vertical-align: top;
+}
+
+.md-typeset table:not([class]) tr:nth-child(even) {
+  background-color: var(--md-default-fg-color--lightest);
+}
+
+/* Better code blocks */
+.md-typeset code {
+  font-size: 0.85em;
+}
+
+/* Admonition enhancements */
+.md-typeset .admonition {
+  font-size: 0.9em;
+}
+
+/* Navigation */
+.md-nav__title {
+  font-weight: 700;
+}
+
+/* Footer styling */
+.md-footer {
+  margin-top: 2em;
+}
+
+.md-footer-links {
+  font-size: 0.7rem;
+  opacity: 0.8;
+}
+
+.md-footer-links a {
+  color: var(--md-typeset-a-color);
+  text-decoration: underline;
+}
+
+/* Responsive tables for mobile */
+@media screen and (max-width: 76.1875em) {
+  .md-typeset table:not([class]) {
+    display: block;
+    overflow-x: auto;
+  }
+}
+
+/* Print styling */
+@media print {
+  .md-header, .md-footer, .md-sidebar, .md-top {
+    display: none !important;
+  }
+  .md-main__inner {
+    margin: 0;
+    max-width: 100%;
+  }
+}
+
+/* Entity badges */
+.entity-badge {
+  display: inline-block;
+  padding: 0.2em 0.6em;
+  font-size: 0.75em;
+  font-weight: 600;
+  border-radius: 0.25em;
+  background-color: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+  margin-right: 0.3em;
+}
+
+/* Homepage sections */
+.home-section {
+  padding: 0.5em 0;
+}
+
+.home-section h2 {
+  border-bottom: 2px solid var(--md-primary-fg-color);
+  padding-bottom: 0.3em;
+}

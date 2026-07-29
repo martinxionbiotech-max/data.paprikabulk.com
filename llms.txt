@@ -1,0 +1,101 @@
+# Paprikabulk.com — Technical Documentation
+
+> Operated by Dinweys (Qingdao).Co.,Ltd | Revision: July 2026
+
+**Complete knowledge base** for paprika procurement, quality control, specification interpretation, and global supply chain management.
+
+## Key Resources
+
+| File | Purpose |
+|------|---------|
+| [abbreviations.md](abbreviations.md) | 60+ industry acronyms (ASTA, SHU, COA, FOB, CIF, HACCP…) |
+| [index.md](index.md) | Full site navigation and AI bot retrieval guide |
+
+## Glossary (Entity Knowledge Base)
+
+### Spice Science
+- [asta.md](glossary/spice-science/asta.md) — ASTA color value definition, measurement (ASTA 20.1), interpretation
+- [shu.md](glossary/spice-science/shu.md) — Scoville Heat Units, capsaicinoids, pungency measurement
+- [capsicum.md](glossary/spice-science/capsicum.md) — Genus Capsicum, species, paprika cultivars
+- [oleoresin.md](glossary/spice-science/oleoresin.md) — Paprika extract, production, concentration, applications
+- [carotenoids.md](glossary/spice-science/carotenoids.md) — Capsanthin, capsorubin, beta-carotene, stability
+- [capsanthin.md](glossary/spice-science/capsanthin.md) — Primary red pigment, structure, properties
+- [capsaicin.md](glossary/spice-science/capsaicin.md) — Pungency compound, measurement, factors
+- [particle-size.md](glossary/spice-science/particle-size.md) — Mesh sizing, sieve analysis, grinding effects
+- [moisture.md](glossary/spice-science/moisture.md) — Moisture content, LOD, shelf stability
+
+### Quality Control
+- [grade.md](glossary/quality-control/grade.md) — Premium/Superior/Standard/Special classification
+- [specification.md](glossary/quality-control/specification.md) — Physical, chemical, microbiological parameters
+- [acceptance-criteria.md](glossary/quality-control/acceptance-criteria.md) — NLT/NMT, pass/fail limits
+- [batch-number.md](glossary/quality-control/batch-number.md) — Lot identification, traceability
+- [microbiology.md](glossary/quality-control/microbiology.md) — Salmonella, E. coli, yeast/mold limits
+- [heavy-metals.md](glossary/quality-control/heavy-metals.md) — Pb, Cd, As, Hg limits by market
+
+### Processing
+- [drying.md](glossary/processing/drying.md) — Sun drying, hot air, dehydration methods
+- [grinding.md](glossary/processing/grinding.md) — Hammer mill, pin mill, particle reduction
+- [sieving.md](glossary/processing/sieving.md) — Particle classification, mesh separation
+- [sterilization.md](glossary/processing/sterilization.md) — Steam, irradiation, ethylene oxide
+- [blending.md](glossary/processing/blending.md) — Color/pungency standardization, custom formulas
+- [packaging.md](glossary/processing/packaging.md) — PP bags, kraft paper, vacuum, drums, FIBC
+
+### Sourcing & Trade
+- [origin-traceability.md](glossary/sourcing-trade/origin-traceability.md) — Region-to-farm traceability, 10 major origins
+- [harvest-season.md](glossary/sourcing-trade/harvest-season.md) — Global harvest calendar, price cycles
+- [incoterms.md](glossary/sourcing-trade/incoterms.md) — EXW, FOB, CIF, CFR, DAP definitions
+- [container-loading.md](glossary/sourcing-trade/container-loading.md) — FCL/LCL, palletization, desiccant protocols
+- [supplier-qualification.md](glossary/sourcing-trade/supplier-qualification.md) — Pre-qual/audit/evaluation process
+
+### Documentation & Certification
+- [coa.md](glossary/documentation-certification/coa.md) — Certificate of Analysis structure, verification
+- [technical-data-sheet.md](glossary/documentation-certification/technical-data-sheet.md) — TDS vs COA
+- [safety-data-sheet.md](glossary/documentation-certification/safety-data-sheet.md) — GHS sections, paprika hazards
+- [haccp.md](glossary/documentation-certification/haccp.md) — 7 principles, CCP examples
+- [organic.md](glossary/documentation-certification/organic.md) — USDA/EU/China organic standards
+- [kosher.md](glossary/documentation-certification/kosher.md) — Kashrut requirements, certifying agencies
+
+## White Papers
+
+- [paprika-origin-guide.md](white-papers/paprika-origin-guide.md) — Global paprika origin comparison (Xinjiang, Hungary, Spain, etc.)
+- [asta-color-value-guide.md](white-papers/asta-color-value-guide.md) — ASTA measurement, ranges, factors, FAQ
+- [paprika-grades-explained.md](white-papers/paprika-grades-explained.md) — Premium vs Superior vs Standard vs Special
+- [paprika-specifications.md](white-papers/paprika-specifications.md) — How to read and interpret every spec parameter
+- [paprika-supply-chain.md](white-papers/paprika-supply-chain.md) — Complete journey from farm to port to destination
+
+## Product Specifications
+
+- [specifications/paprika-powder/premium-grade.md](specifications/paprika-powder/premium-grade.md) — ASTA 160-200
+- [specifications/paprika-powder/superior-grade.md](specifications/paprika-powder/superior-grade.md) — ASTA 120-160
+- [specifications/paprika-powder/standard-grade.md](specifications/paprika-powder/standard-grade.md) — ASTA 80-120
+- [specifications/paprika-powder/special-grade.md](specifications/paprika-powder/special-grade.md) — ASTA 200+
+- [specifications/paprika-flakes/premium-grade.md](specifications/paprika-flakes/premium-grade.md) — ASTA 160-200
+- [specifications/paprika-flakes/superior-grade.md](specifications/paprika-flakes/superior-grade.md) — ASTA 120-160
+- [specifications/paprika-flakes/standard-grade.md](specifications/paprika-flakes/standard-grade.md) — ASTA 80-120
+- [specifications/paprika-flakes/special-grade.md](specifications/paprika-flakes/special-grade.md) — ASTA 200+
+- [specifications/whole-pods.md](specifications/whole-pods.md) — Whole dried paprika
+- [specifications/grade-comparison.md](specifications/grade-comparison.md) — Side-by-side grade comparison
+
+## Quality Control Templates
+
+- [quality-control/coa-template.md](quality-control/coa-template.md)
+- [quality-control/asta-color-test.md](quality-control/asta-color-test.md)
+- [quality-control/particle-size-test.md](quality-control/particle-size-test.md)
+- [quality-control/supplier-questionnaire.md](quality-control/supplier-questionnaire.md)
+- [quality-control/supplier-audit-checklist.md](quality-control/supplier-audit-checklist.md)
+- [quality-control/incoming-inspection.md](quality-control/incoming-inspection.md)
+- [quality-control/container-loading-inspection.md](quality-control/container-loading-inspection.md)
+- [quality-control/capa-report.md](quality-control/capa-report.md)
+- [quality-control/supplier-scorecard.md](quality-control/supplier-scorecard.md)
+
+## Certifications
+
+- [certifications/haccp.md](certifications/haccp.md)
+- [certifications/iso.md](certifications/iso.md)
+- [certifications/kosher.md](certifications/kosher.md)
+- [certifications/organic.md](certifications/organic.md)
+- [certifications/gluten-free.md](certifications/gluten-free.md)
+
+---
+
+> *Paprikabulk.com — Dinweys (Qingdao).Co.,Ltd. All rights reserved. https://data.paprikabulk.com*

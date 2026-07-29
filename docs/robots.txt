@@ -1,0 +1,64 @@
+# =====================================
+# PaprikaBulk Data Knowledge Hub
+# Robots.txt
+# =====================================
+
+User-agent: *
+
+Allow: /
+
+# Sitemap
+Sitemap: https://data.paprikabulk.com/sitemap.xml
+
+
+# =====================================
+# Block unnecessary system resources
+# =====================================
+
+Disallow: /404.html
+Disallow: /overrides/
+Disallow: /templates/
+
+
+# =====================================
+# AI Search Crawlers
+# =====================================
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+Crawl-delay: 1
+
+User-agent: PerplexityBot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+Crawl-delay: 1
+
+User-agent: Cohere-ai
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+# Polite crawl-delay for all crawlers
+Crawl-delay: 1

@@ -1,0 +1,125 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  <!-- Canonical URL -->
+  <link rel="canonical" href="{{ page.canonical_url }}" />
+  <meta property="og:url" content="{{ page.canonical_url }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Paprikabulk.com — Technical Documentation" />
+  <meta property="og:title" content="{{ page.title | default('Paprikabulk.com') }}" />
+  <meta property="og:description" content="{{ page.meta.description if page.meta and page.meta.description else 'Technical knowledge base for paprika procurement, quality control, specification interpretation, and global supply chain management.' }}" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <!-- JSON-LD: Organization + WebSite + TechArticle -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://paprikabulk.com/#organization",
+    "name": "Dinweys (Qingdao).Co.,Ltd",
+    "url": "https://paprikabulk.com",
+    "description": "B2B paprika supplier — premium quality paprika powder, flakes, whole pods, and oleoresin for the global food industry.",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://paprikabulk.com/assets/logo.png"
+    },
+    "brand": {
+      "@type": "Brand",
+      "name": "Paprikabulk.com"
+    },
+    "sameAs": [
+      "https://paprikabulk.com",
+      "https://data.paprikabulk.com",
+      "https://github.com/dinweys/paprika-docs"
+    ]
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "https://data.paprikabulk.com/#website",
+    "url": "https://data.paprikabulk.com",
+    "name": "Paprikabulk.com — Technical Documentation",
+    "description": "Technical knowledge base for paprika procurement, quality control, specification interpretation, and global supply chain management.",
+    "publisher": {
+      "@id": "https://paprikabulk.com/#organization"
+    },
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://data.paprikabulk.com/?q={search_term_string}"
+      },
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "TechArticle",
+    "@id": "{{ page.canonical_url }}#article",
+    "headline": "{{ page.title | default('Paprikabulk.com Technical Documentation') }}",
+    "description": "{{ page.meta.description if page.meta and page.meta.description else 'Paprika technical documentation' }}",
+    "url": "{{ page.canonical_url }}",
+    "dateModified": "2026-08-01",
+    "datePublished": "2026-01-15",
+    "author": {
+      "@type": "Organization",
+      "@id": "https://paprikabulk.com/#organization"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "@id": "https://paprikabulk.com/#organization"
+    },
+    "isAccessibleForFree": true,
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ page.canonical_url }}"
+    },
+    "about": {
+      "@type": "Thing",
+      "name": "Paprika",
+      "description": "Spice from dried ground Capsicum annuum peppers"
+    }
+  }
+  </script>
+
+  <!-- FAQ Schema detection: load from page frontmatter when schema_type = FAQPage -->
+  {% if page.meta and page.meta.schema_type == "FAQPage" %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "@id": "{{ page.canonical_url }}#faq",
+    "mainEntity": {{ page.meta.faq_json | safe }}
+  }
+  </script>
+  {% endif %}
+{% endblock %}
+
+{% block footer %}
+<footer class="md-footer">
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        &copy; 2026 <a href="https://paprikabulk.com">Dinweys (Qingdao).Co.,Ltd</a>
+        — Official Technical Documentation Center
+      </div>
+      <div class="md-footer-links">
+        <a href="https://paprikabulk.com">📦 Main Website: paprikabulk.com</a>
+        &nbsp;|&nbsp;
+        <a href="https://data.paprikabulk.com">📖 Documentation Center: data.paprikabulk.com</a>
+        &nbsp;|&nbsp;
+        <a href="https://github.com/dinweys/paprika-docs">Source Repository: GitHub</a>
+        &nbsp;|&nbsp;
+        Research Use Only Documentation
+      </div>
+
+    </div>
+  </div>
+</footer>
+{% endblock %}

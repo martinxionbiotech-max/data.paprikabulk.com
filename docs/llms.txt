@@ -1,0 +1,183 @@
+# Paprikabulk.com — Technical Documentation Center
+> B2B paprika supplier knowledge base | B2B technical documentation for paprika procurement, quality control, specification interpretation, and global supply chain management
+> Operated by Dinweys (Qingdao).Co.,Ltd
+> Last Updated: August 2026
+
+## Organization
+- **Name:** Dinweys (Qingdao).Co.,Ltd
+- **Brand:** Paprikabulk.com
+- **Website:** [paprikabulk.com](https://paprikabulk.com)
+- **Documentation:** [paprikabulk.com](https://paprikabulk.com/)
+- **GitHub:** [dinweys/paprika-docs](https://github.com/dinweys/paprika-docs)
+
+## Description
+Complete B2B technical documentation library for paprika (Capsicum annuum) procurement, quality control, specification interpretation, and global supply chain management. Covers ASTA color value measurement, grade classification (Premium/Superior/Standard/Special), carotenoid chemistry, drying/grinding/sterilization processing, origin sourcing (Xinjiang, Hungary, Spain, Serbia, India), regulatory compliance (EU, FDA, FSMA, Codex, ESA), and quality system documentation (HACCP, ISO, CAPA, supplier qualification).
+
+## Documentation Structure
+
+### Core Navigation
+- [Home / Index](https://paprikabulk.com/)
+- [About](https://paprikabulk.com/about/)
+- [Abbreviations](https://paprikabulk.com/abbreviations/)
+
+### Glossary (32 entity definitions across 5 categories, ~200 lines avg/document)
+
+#### Spice Science (9 entities)
+- [ASTA Color Value](https://paprikabulk.com/glossary/spice-science/asta/)
+- [Capsaicin (Pungency)](https://paprikabulk.com/glossary/spice-science/capsaicin/)
+- [Capsanthin (Red Pigment E160c)](https://paprikabulk.com/glossary/spice-science/capsanthin/)
+- [Capsicum annuum (Botany)](https://paprikabulk.com/glossary/spice-science/capsicum/)
+- [Carotenoids (Pigment Class)](https://paprikabulk.com/glossary/spice-science/carotenoids/)
+- [Moisture Content](https://paprikabulk.com/glossary/spice-science/moisture/)
+- [Oleoresin](https://paprikabulk.com/glossary/spice-science/oleoresin/)
+- [Particle Size](https://paprikabulk.com/glossary/spice-science/particle-size/)
+- [Scoville Heat Units (SHU)](https://paprikabulk.com/glossary/spice-science/shu/)
+
+#### Quality Control (6 entities)
+- [Acceptance Criteria](https://paprikabulk.com/glossary/quality-control/acceptance-criteria/)
+- [Batch Number](https://paprikabulk.com/glossary/quality-control/batch-number/)
+- [Grade Classification](https://paprikabulk.com/glossary/quality-control/grade/)
+- [Heavy Metals Limits](https://paprikabulk.com/glossary/quality-control/heavy-metals/)
+- [Microbiology Standards](https://paprikabulk.com/glossary/quality-control/microbiology/)
+- [Specification](https://paprikabulk.com/glossary/quality-control/specification/)
+
+#### Processing (6 entities)
+- [Blending](https://paprikabulk.com/glossary/processing/blending/)
+- [Drying](https://paprikabulk.com/glossary/processing/drying/)
+- [Grinding](https://paprikabulk.com/glossary/processing/grinding/)
+- [Packaging](https://paprikabulk.com/glossary/processing/packaging/)
+- [Sieving](https://paprikabulk.com/glossary/processing/sieving/)
+- [Sterilization](https://paprikabulk.com/glossary/processing/sterilization/)
+
+#### Sourcing & Trade (5 entities)
+- [Container Loading](https://paprikabulk.com/glossary/sourcing-trade/container-loading/)
+- [Harvest Season](https://paprikabulk.com/glossary/sourcing-trade/harvest-season/)
+- [Incoterms](https://paprikabulk.com/glossary/sourcing-trade/incoterms/)
+- [Origin Traceability](https://paprikabulk.com/glossary/sourcing-trade/origin-traceability/)
+- [Supplier Qualification](https://paprikabulk.com/glossary/sourcing-trade/supplier-qualification/)
+
+#### Documentation & Certification (6 entities)
+- [Certificate of Analysis (COA)](https://paprikabulk.com/glossary/documentation-certification/coa/)
+- [HACCP Certification](https://paprikabulk.com/glossary/documentation-certification/haccp/)
+- [Kosher Certification](https://paprikabulk.com/glossary/documentation-certification/kosher/)
+- [Organic Certification](https://paprikabulk.com/glossary/documentation-certification/organic/)
+- [Safety Data Sheet (SDS)](https://paprikabulk.com/glossary/documentation-certification/safety-data-sheet/)
+- [Technical Data Sheet (TDS)](https://paprikabulk.com/glossary/documentation-certification/technical-data-sheet/)
+
+### White Papers (5 papers, comprehensive)
+- [Paprika Origin Guide](https://paprikabulk.com/white-papers/paprika-origin-guide/)
+- [ASTA Color Value Guide](https://paprikabulk.com/white-papers/asta-color-value-guide/)
+- [Paprika Grades Explained](https://paprikabulk.com/white-papers/paprika-grades-explained/)
+- [Paprika Specifications](https://paprikabulk.com/white-papers/paprika-specifications/)
+- [Paprika Supply Chain](https://paprikabulk.com/white-papers/paprika-supply-chain/)
+
+### Product Specifications (10 sheets + grade comparison)
+- [Powder - Premium (ASTA 160-200)](https://paprikabulk.com/specifications/paprika-powder/premium-grade/)
+- [Powder - Superior (ASTA 120-160)](https://paprikabulk.com/specifications/paprika-powder/superior-grade/)
+- [Powder - Standard (ASTA 80-120)](https://paprikabulk.com/specifications/paprika-powder/standard-grade/)
+- [Powder - Special ASTA200+](https://paprikabulk.com/specifications/paprika-powder/special-grade/)
+- [Flakes - Premium](https://paprikabulk.com/specifications/paprika-flakes/premium-grade/)
+- [Flakes - Superior](https://paprikabulk.com/specifications/paprika-flakes/superior-grade/)
+- [Flakes - Standard](https://paprikabulk.com/specifications/paprika-flakes/standard-grade/)
+- [Flakes - Special](https://paprikabulk.com/specifications/paprika-flakes/special-grade/)
+- [Whole Pods](https://paprikabulk.com/specifications/whole-pods/)
+- [Grade Comparison](https://paprikabulk.com/specifications/grade-comparison/)
+
+### Regulatory Compliance (9 guides)
+- [ESA European Standards](https://paprikabulk.com/regulatory/esa/)
+- [AOAC Official Methods](https://paprikabulk.com/regulatory/aoac/)
+- [Codex Alimentarius](https://paprikabulk.com/regulatory/codex/)
+- [GMO Regulatory Framework](https://paprikabulk.com/regulatory/gmo/)
+- [TRPV1 / Capsaicin Receptor](https://paprikabulk.com/regulatory/trpv1/)
+- [Packaging Standards](https://paprikabulk.com/regulatory/packaging/)
+- [Shelf Life Guidelines](https://paprikabulk.com/regulatory/shelf-life/)
+- [Solvent Extraction Limits](https://paprikabulk.com/regulatory/solvent-extraction/)
+- [FSMA US Import Compliance](https://paprikabulk.com/regulatory/fsma-compliance/)
+
+### Quality Control (14 procedures + 9 templates)
+- [Sampling Procedure (ISO 948)](https://paprikabulk.com/quality-control/sampling-procedure/)
+- [Mycotoxin Monitoring](https://paprikabulk.com/quality-control/mycotoxin-monitoring/)
+- [Pesticide Residue Management](https://paprikabulk.com/quality-control/pesticide-residue-management/)
+- [Sensory Evaluation](https://paprikabulk.com/quality-control/sensory-evaluation/)
+- [Sieve Analysis](https://paprikabulk.com/quality-control/sieve-analysis/)
+- [Storage Guidelines](https://paprikabulk.com/quality-control/storage/)
+- [Color Science (CIELAB)](https://paprikabulk.com/quality-control/color-science/)
+- [Water Activity](https://paprikabulk.com/quality-control/water-activity/)
+- [Allergen Management](https://paprikabulk.com/quality-control/allergen-management/)
+- [Bulk Density](https://paprikabulk.com/quality-control/bulk-density/)
+- [Flowability](https://paprikabulk.com/quality-control/flowability/)
+- [Spectrophotometer Guide](https://paprikabulk.com/quality-control/spectrophotometer/)
+- [HPLC Analysis](https://paprikabulk.com/quality-control/hplc/)
+- [Antioxidant Activity](https://paprikabulk.com/quality-control/antioxidant/)
+- [COA Template](https://paprikabulk.com/quality-control/coa-template/)
+- [ASTA Color Test Record](https://paprikabulk.com/quality-control/asta-color-test/)
+- [Particle Size Test Record](https://paprikabulk.com/quality-control/particle-size-test/)
+- [Supplier Questionnaire](https://paprikabulk.com/quality-control/supplier-questionnaire/)
+- [Supplier Audit Checklist](https://paprikabulk.com/quality-control/supplier-audit-checklist/)
+- [Incoming Inspection](https://paprikabulk.com/quality-control/incoming-inspection/)
+- [Container Loading Inspection](https://paprikabulk.com/quality-control/container-loading-inspection/)
+- [CAPA Report](https://paprikabulk.com/quality-control/capa-report/)
+- [Supplier Scorecard](https://paprikabulk.com/quality-control/supplier-scorecard/)
+
+### Case Studies (3 real incidents)
+- [ASTA Color Value Discrepancy](https://paprikabulk.com/case-studies/asta-deviation-resolution/)
+- [Caking in Container Shipment](https://paprikabulk.com/case-studies/container-caking-incident/)
+- [Salmonella Border Detention](https://paprikabulk.com/case-studies/salmonella-border-detention/)
+
+### B2B Procurement FAQ
+- [10 Real Quality Disputes (FAQPage Schema)](https://paprikabulk.com/faq/procurement-faq/)
+
+### Certifications (5 standards)
+- [HACCP](https://paprikabulk.com/certifications/haccp/)
+- [ISO](https://paprikabulk.com/certifications/iso/)
+- [Kosher](https://paprikabulk.com/certifications/kosher/)
+- [Organic](https://paprikabulk.com/certifications/organic/)
+- [Gluten-Free](https://paprikabulk.com/certifications/gluten-free/)
+
+## Key Facts
+
+### ASTA Color Value
+- Primary quality parameter for paprika trade
+- Measured by spectrophotometry at 460nm (ASTA 20.1 / ISO 7541)
+- Range: Standard 80-120, Superior 120-160, Premium 160-200, Special 200+
+- Pricing directly correlates: ~5-15% premium per 10 ASTA points
+- Degrades ~5-10%/year at 20°C in barrier packaging
+
+### Grade Classification
+- **Premium** (ASTA 160-200): Highest color, sweet flavor, ≤500 SHU
+- **Superior** (ASTA 120-160): Best price-to-performance, ≤1,000 SHU
+- **Standard** (ASTA 80-120): Economical, ≤2,000 SHU
+- **Special** (ASTA 200+): Maximum color yield, ≤500 SHU
+
+### Key Quality Parameters
+- Moisture: ≤10% for powders, ≤12% for whole pods
+- Capsanthin: ≥120 mg/100g (Premium), ≥55 (Standard)
+- Total Ash: ≤8-10%, Acid-Insoluble Ash: ≤0.5-1.0%
+- Salmonella: Negative/25g, E. coli: <10 CFU/g
+- Aflatoxins: EU 10µg/kg total, US 20µg/kg action level
+
+### Regulatory Compliance
+- EU: EC 396/2005 (pesticides), EC 1881/2006 (contaminants)
+- US: FSMA, FDA 21 CFR, FSVPC
+- China: GB 2762-2022, GB 2763
+- Japan: Positive List System
+- Codex: CXS 193-1995
+
+### Key Originating Regions
+- Xinjiang, China: Highest ASTA (140-220)
+- Hungary: Superior aroma, moderate ASTA (100-140)
+- Spain (La Vera): Smoked PDO, ASTA 100-150
+- California: Organic potential, low ASTA (80-120)
+- India: Lowest cost, lower ASTA (60-100)
+
+### Processing Methods
+- Drying: Sun (7-15 days, -30-50% ASTA), Mechanical (6-12h, -10-20%)
+- Grinding: Cryogenic (+1-3% retention), Pin mill (-8-15%)
+- Sterilization: Steam (140°C, 30s), Irradiation (5-10 kGy), Ethylene Oxide (EU restricted)
+- Packaging: Multi-layer barrier bags, N₂ flushing recommended
+
+## Keywords
+paprika, capsicum annuum, ASTA color value, spice trade, paprika grades, Premium Superior Standard Special, paprika specifications, paprika quality control, paprika COA, paprika processing, paprika supply chain, paprika origin Xinjiang, paprika origin Hungary, paprika procurement, B2B spice buying, paprika HACCP, paprika ISO 22000, paprika FSMA, paprika pesticide MRL, paprika mycotoxin aflatoxin, paprika sampling ISO 948, paprika sensory evaluation, paprika storage shelf life, paprika oleoresin, food colorant, natural red color, paprika carotenoids, capsanthin, spice quality standards, bulk paprika supplier, paprika certification, spice trade documentation, paprika export China, paprika import EU FDA, capsicum annuum supplier, paprika powder bulk, paprika flakes wholesale, natural food color E160c, paprika extract manufacturer
+
+## Content Type
+B2B Technical Documentation / Scientific Reference / Quality Standards / Regulatory Compliance / Product Specifications

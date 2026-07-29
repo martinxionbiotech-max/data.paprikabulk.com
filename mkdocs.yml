@@ -1,0 +1,223 @@
+site_name: Paprikabulk.com — Technical Documentation
+site_url: https://data.paprikabulk.com/
+site_description: Complete technical knowledge base for paprika procurement, quality control, specification interpretation, and global supply chain management.
+site_author: Dinweys (Qingdao).Co.,Ltd
+repo_url: https://github.com/dinweys/paprika-docs
+repo_name: dinweys/paprika-docs
+edit_uri: blob/main/docs/
+
+copyright: Copyright &copy; 2026 Dinweys (Qingdao).Co.,Ltd — All Rights Reserved
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  palette:
+    - scheme: default
+      primary: red
+      accent: red
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+    - toc.follow
+  favicon: assets/favicon.ico
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - tables
+  - admonition
+  - footnotes
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.arithmatex:
+      generic: true
+
+plugins:
+  - glightbox
+  - minify:
+      minify_html: true
+
+extra_css:
+  - assets/extra.css
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - Home: index.md
+  - Abbreviations: abbreviations.md
+
+  - Glossary:
+    - Overview: glossary/index.md
+    - Spice Science:
+      - glossary/spice-science/asta.md
+      - glossary/spice-science/capsaicin.md
+      - glossary/spice-science/capsanthin.md
+      - glossary/spice-science/capsicum.md
+      - glossary/spice-science/carotenoids.md
+      - glossary/spice-science/moisture.md
+      - glossary/spice-science/oleoresin.md
+      - glossary/spice-science/particle-size.md
+      - glossary/spice-science/shu.md
+    - Quality Control:
+      - glossary/quality-control/grade.md
+      - glossary/quality-control/specification.md
+      - glossary/quality-control/acceptance-criteria.md
+      - glossary/quality-control/batch-number.md
+      - glossary/quality-control/microbiology.md
+      - glossary/quality-control/heavy-metals.md
+    - Processing:
+      - glossary/processing/drying.md
+      - glossary/processing/grinding.md
+      - glossary/processing/sieving.md
+      - glossary/processing/sterilization.md
+      - glossary/processing/blending.md
+      - glossary/processing/packaging.md
+    - Sourcing & Trade:
+      - glossary/sourcing-trade/origin-traceability.md
+      - glossary/sourcing-trade/harvest-season.md
+      - glossary/sourcing-trade/incoterms.md
+      - glossary/sourcing-trade/supplier-qualification.md
+      - glossary/sourcing-trade/container-loading.md
+    - Documentation & Certification:
+      - glossary/documentation-certification/coa.md
+      - glossary/documentation-certification/haccp.md
+      - glossary/documentation-certification/kosher.md
+      - glossary/documentation-certification/organic.md
+      - glossary/documentation-certification/safety-data-sheet.md
+      - glossary/documentation-certification/technical-data-sheet.md
+
+  - White Papers:
+    - Overview: white-papers/index.md
+    - Paprika Origin Guide: white-papers/paprika-origin-guide.md
+    - ASTA Color Value Guide: white-papers/asta-color-value-guide.md
+    - Paprika Grades Explained: white-papers/paprika-grades-explained.md
+    - Paprika Specifications: white-papers/paprika-specifications.md
+    - Paprika Supply Chain: white-papers/paprika-supply-chain.md
+
+  - Specifications:
+    - Overview: specifications/index.md
+    - Powder - Premium: specifications/paprika-powder/premium-grade.md
+    - Powder - Superior: specifications/paprika-powder/superior-grade.md
+    - Powder - Standard: specifications/paprika-powder/standard-grade.md
+    - Powder - Special ASTA200+: specifications/paprika-powder/special-grade.md
+    - Flakes - Premium: specifications/paprika-flakes/premium-grade.md
+    - Flakes - Superior: specifications/paprika-flakes/superior-grade.md
+    - Flakes - Standard: specifications/paprika-flakes/standard-grade.md
+    - Flakes - Special: specifications/paprika-flakes/special-grade.md
+    - Whole Pods: specifications/whole-pods.md
+    - Grade Comparison: specifications/grade-comparison.md
+
+  - Regulatory Compliance:
+    - Overview: regulatory/index.md
+    - ESA European Standards: regulatory/esa.md
+    - AOAC Official Methods: regulatory/aoac.md
+    - Codex Alimentarius: regulatory/codex.md
+    - GMO Regulatory Framework: regulatory/gmo.md
+    - TRPV1 / Capsaicin: regulatory/trpv1.md
+    - Packaging Standards: regulatory/packaging.md
+    - Shelf Life Guidelines: regulatory/shelf-life.md
+    - Solvent Extraction Limits: regulatory/solvent-extraction.md
+    - FSMA — US Import Compliance: regulatory/fsma-compliance.md
+
+  - Quality Control:
+    - Overview: quality-control/index.md
+    - Procedures:
+      - Sampling Procedure (ISO 948): quality-control/sampling-procedure.md
+      - Mycotoxin Monitoring: quality-control/mycotoxin-monitoring.md
+      - Pesticide Residue Management: quality-control/pesticide-residue-management.md
+      - Sensory Evaluation: quality-control/sensory-evaluation.md
+      - Sieve Analysis: quality-control/sieve-analysis.md
+      - Storage Guidelines: quality-control/storage.md
+      - Color Science (CIELAB): quality-control/color-science.md
+      - Water Activity: quality-control/water-activity.md
+      - Allergen Management: quality-control/allergen-management.md
+      - Bulk Density: quality-control/bulk-density.md
+      - Flowability: quality-control/flowability.md
+      - Spectrophotometer Guide: quality-control/spectrophotometer.md
+      - HPLC Analysis: quality-control/hplc.md
+      - Antioxidant Activity: quality-control/antioxidant.md
+    - Templates:
+      - COA Template: quality-control/coa-template.md
+      - ASTA Color Test Record: quality-control/asta-color-test.md
+      - Particle Size Test Record: quality-control/particle-size-test.md
+      - Supplier Questionnaire: quality-control/supplier-questionnaire.md
+      - Supplier Audit Checklist: quality-control/supplier-audit-checklist.md
+      - Incoming Inspection: quality-control/incoming-inspection.md
+      - Container Loading Inspection: quality-control/container-loading-inspection.md
+      - CAPA Report: quality-control/capa-report.md
+      - Supplier Scorecard: quality-control/supplier-scorecard.md
+
+  - Case Studies:
+    - Overview: case-studies/index.md
+    - ASTA Color Value Discrepancy: case-studies/asta-deviation-resolution.md
+    - Caking in Container Shipment: case-studies/container-caking-incident.md
+    - Salmonella Border Detention: case-studies/salmonella-border-detention.md
+
+  - B2B Procurement FAQ:
+    - Overview: faq/index.md
+    - 10 Real Quality Disputes: faq/procurement-faq.md
+
+  - Certifications:
+    - Overview: certifications/index.md
+    - HACCP: certifications/haccp.md
+    - ISO: certifications/iso.md
+    - Kosher: certifications/kosher.md
+    - Organic: certifications/organic.md
+    - Gluten-Free: certifications/gluten-free.md
+
+  - Research Library:
+    - Overview: research/index.md
+    - Carotenoid Chemistry: glossary/spice-science/carotenoids.md
+    - ASTA Degradation: quality-control/storage.md
+    - Antioxidant Activity: quality-control/antioxidant.md
+    - Color Science: quality-control/color-science.md
+
+  - Datasets:
+    - Overview: datasets/index.md
+    - Grade Comparison: specifications/grade-comparison.md
+    - Microbiological Limits: glossary/quality-control/microbiology.md
+    - Heavy Metals Limits: glossary/quality-control/heavy-metals.md
+    - Pesticide MRL Database: quality-control/pesticide-residue-management.md
+    - Mycotoxin Limits: quality-control/mycotoxin-monitoring.md
+    - Storage Conditions: quality-control/storage.md
+    - Particle Size Distribution: quality-control/sieve-analysis.md
+
+  - Guides:
+    - Overview: guides/index.md
+
+  - Products:
+    - Overview: products/index.md
+
+  - About: about/index.md
+
+  - Resources: resources/index.md
