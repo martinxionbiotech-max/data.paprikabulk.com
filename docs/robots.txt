@@ -18,6 +18,7 @@ Sitemap: https://data.paprikabulk.com/sitemap.xml
 Disallow: /404.html
 Disallow: /overrides/
 Disallow: /templates/
+Disallow: /audit/
 
 
 # =====================================

@@ -71,7 +71,7 @@ AOAC methods are categorized into three tiers based on validation status:
 
 #### AOAC 971.28 — Color (Extractable) in Spices
 
-This is the primary method for ASTA color value determination, equivalent to ASTA 20.1 and ISO 7541:1989.
+This is the primary method for ASTA color value determination, equivalent to ASTA 20.1; the corresponding international standard is ISO 7541:2020 (the 1989 edition is withdrawn) [withdrawn; superseded by ISO 7541:2020].
 
 | Parameter | Specification |
 |-----------|:------------:|

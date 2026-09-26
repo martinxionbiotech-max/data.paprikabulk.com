@@ -155,10 +155,10 @@ dateModified: YYYY-MM-DD
 
 ## Further Reading
 
-- [Related White Paper 1](../white-papers/[paper-name].md) — Brief description
-- [Related White Paper 2](../white-papers/[paper-name].md) — Brief description
-- [Related Specification](../specifications/[doc].md) — Brief description
-- [Glossary Entry](../glossary/[category]/[term].md) — Key term definition
+- `Related White Paper 1` — Brief description
+- `Related White Paper 2` — Brief description
+- `Related Specification` — Brief description
+- `Glossary Entry` — Key term definition
 
 ---
 

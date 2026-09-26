@@ -83,8 +83,8 @@ The flagship product — ASTA 160–200 with deep red color (CIELAB a*/b* ≥ 1.
 | Bulk Density | 0.35–0.50 g/mL |
 | Aflatoxin B1 | ≤ 2 μg/kg (EU compliant) |
 | Pesticide MRL | EU compliant |
-| HACCP Certified | Yes |
-| Kosher Certified | Yes |
+| HACCP-based food safety system | Documentation provided on request; verify current certificate scope per order |
+| Kosher status | Confirm per order — provided when the sourcing/specification requires it |
 
 See the [full specification](/specifications/paprika-powder/premium-grade.md) for complete details.
 

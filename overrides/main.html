@@ -1,5 +1,9 @@
 {% extends "base.html" %}
 
+{% block htmltitle %}
+  <title>{{ page.meta.title if page.meta and page.meta.title else page.title }} | Paprikabulk Data Hub</title>
+{% endblock %}
+
 {% block extrahead %}
   <!-- Canonical URL -->
   <link rel="canonical" href="{{ page.canonical_url }}" />
@@ -30,7 +34,7 @@
     "sameAs": [
       "https://paprikabulk.com",
       "https://data.paprikabulk.com",
-      "https://github.com/dinweys/paprika-docs"
+      "https://github.com/martinxionbiotech-max/data.paprikabulk.com"
     ]
   }
   </script>
@@ -62,11 +66,12 @@
     "@context": "https://schema.org",
     "@type": "TechArticle",
     "@id": "{{ page.canonical_url }}#article",
-    "headline": "{{ page.title | default('Paprikabulk.com Technical Documentation') }}",
+    "headline": "{{ page.meta.title if page.meta and page.meta.title else page.title }}",
     "description": "{{ page.meta.description if page.meta and page.meta.description else 'Paprika technical documentation' }}",
     "url": "{{ page.canonical_url }}",
-    "dateModified": "2026-08-01",
-    "datePublished": "2026-01-15",
+    {% set _pub = page.meta.datePublished if page.meta and page.meta.datePublished else "2026-01-15" %}{% set _mod = page.meta.dateModified if page.meta and page.meta.dateModified else _pub %}
+    "dateModified": "{{ _mod }}",
+    "datePublished": "{{ _pub }}",
     "author": {
       "@type": "Organization",
       "@id": "https://paprikabulk.com/#organization"
@@ -99,6 +104,67 @@
   }
   </script>
   {% endif %}
+
+  <!-- JSON-LD: BreadcrumbList (all pages) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "@id": "{{ page.canonical_url }}#breadcrumb",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://data.paprikabulk.com/"
+      }{% if page.ancestors %}{% for a in page.ancestors|reverse %}
+      ,{
+        "@type": "ListItem",
+        "position": {{ loop.index + 1 }},
+        "name": "{{ a.title }}",
+        "item": "https://data.paprikabulk.com/{{ a.url }}"
+      }{% endfor %}{% endif %}
+    ]
+  }
+  </script>
+
+  <!-- JSON-LD: DefinedTerm (glossary pages: the term is the page itself) -->
+  {% if page.url and page.url.startswith('glossary/') and page.url != 'glossary/' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "@id": "{{ page.canonical_url }}#term",
+    "name": "{{ page.meta.title if page.meta and page.meta.title else page.title }}",
+    "description": "{{ page.meta.description if page.meta and page.meta.description else '' }}",
+    "inDefinedTermSet": {
+      "@type": "DefinedTermSet",
+      "@id": "https://data.paprikabulk.com/glossary/#termset",
+      "name": "Paprika Technical Glossary",
+      "url": "https://data.paprikabulk.com/glossary/"
+    },
+    "url": "{{ page.canonical_url }}"
+  }
+  </script>
+  {% endif %}
+
+  <!-- JSON-LD: Dataset (datasets page) -->
+  {% if page.url == 'datasets/' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "@id": "{{ page.canonical_url }}#dataset",
+    "name": "Paprika Technical Reference Data",
+    "description": "{{ page.meta.description if page.meta and page.meta.description else 'Reference data set behind the PaprikaBulk Data Hub.' }}",
+    "url": "{{ page.canonical_url }}",
+    "creator": { "@id": "https://paprikabulk.com/#organization" },
+    "publisher": { "@id": "https://paprikabulk.com/#organization" },
+    "isAccessibleForFree": true,
+    "license": "https://paprikabulk.com/terms-of-use/"
+  }
+  </script>
+  {% endif %}
 {% endblock %}
 
 {% block footer %}
@@ -114,9 +180,9 @@
         &nbsp;|&nbsp;
         <a href="https://data.paprikabulk.com">📖 Documentation Center: data.paprikabulk.com</a>
         &nbsp;|&nbsp;
-        <a href="https://github.com/dinweys/paprika-docs">Source Repository: GitHub</a>
+        <a href="https://github.com/martinxionbiotech-max/data.paprikabulk.com">Source Repository: GitHub</a>
         &nbsp;|&nbsp;
-        Research Use Only Documentation
+        Technical documentation — information only. Product supplied to specification; verify current certificates, specifications and regulatory requirements per order.
       </div>
 
     </div>

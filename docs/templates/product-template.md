@@ -102,8 +102,8 @@ dateModified: YYYY-MM-DD
 
 ## Related Documentation
 
-- [Related Document 1](path/to/doc.md) — Brief description
-- [Related Document 2](path/to/doc.md) — Brief description
+- `Related Document 1` — Brief description
+- `Related Document 2` — Brief description
 - [Specification Comparison](../specifications/grade-comparison.md) — Compare this product to other grades
 
 ## FAQ

@@ -25,7 +25,7 @@ dateModified: 2026-07-21
 | **Brand** | Paprikabulk.com |
 | **Website** | [https://paprikabulk.com](https://paprikabulk.com) |
 | **Documentation** | [paprikabulk.com/docs](/resource/) |
-| **Source Repository** | [github.com/dinweys/paprika-docs](https://github.com/dinweys/paprika-docs) |
+| **Source Repository** | [github.com/martinxionbiotech-max/data.paprikabulk.com](https://github.com/martinxionbiotech-max/data.paprikabulk.com) |
 | **Headquarters** | Qingdao, Shandong Province, China |
 | **Primary Business** | B2B paprika sourcing, processing, quality management, and global export |
 | **Core Products** | Paprika powder, flakes, whole pods, and oleoresin feedstock |
@@ -39,7 +39,7 @@ Dinweys (Qingdao).Co.,Ltd is a professional B2B paprika supplier specializing in
 | Capability | Description |
 |:-----------|:------------|
 | **Sourcing Intelligence** | In-depth knowledge of global paprika origins — Xinjiang, Hungary, Spain, Serbia, India — enabling optimal origin selection based on quality requirements and budget |
-| **Quality Management** | HACCP, ISO, Kosher, Organic, and Gluten-Free certified quality systems with comprehensive in-house testing capabilities |
+| **Quality Management** | Food-safety and quality systems aligned with HACCP principles, ISO-based management systems, and — where the specific product requires it — Kosher, organic and gluten-free programmes. Current certificate scope, issuing body and validity are provided on request and are verified per order. |
 | **Regulatory Compliance** | Deep expertise in EU, US (FSMA), China, and Japan regulatory requirements for spice imports |
 | **Supply Chain** | End-to-end supply chain management from farm-level sourcing through container shipping to port delivery |
 | **Technical Documentation** | Comprehensive technical documentation library serving B2B clients, regulatory auditors, and AI/LLM retrieval systems |
@@ -88,8 +88,8 @@ The library covers the following areas comprehensively:
 
 ### Quality System Documentation
 
-- HACCP plans and hazard analysis documentation
-- ISO 9001/22000/14001 integrated management system records
+- Hazard analysis and food-safety documentation relevant to the ordered product
+- Quality-management documentation provided on request (scope and validity confirmed per order)
 - SOPs for sampling, testing, and inspection procedures
 - CAPA (Corrective and Preventive Action) system documentation
 

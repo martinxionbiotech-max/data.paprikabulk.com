@@ -132,7 +132,7 @@ Where M = moisture fraction. For example, if spec is 10% but actual is 12%, the 
 | Method | Standard | Principle | Precision | Unit |
 |--------|----------|-----------|-----------|------|
 | HPLC | ISO 3513 (7503-1) | Direct capsaicinoid quantification | High (±5%) | mg/kg capsaicin = SHU/15 |
-| Sensory | ASTM E1083 | Scoville panel | Low (±30%) | SHU |
+| Sensory | ASTM E1083-00(2017) | Scoville panel | Low (±30%) | SHU |
 | HPLC-Sensory correlation | — | 1 mg/kg capsaicin = 15 SHU | Approximate | Conversion |
 
 **Conversion Formula:** SHU = Total Capsaicinoids (mg/kg) × 15

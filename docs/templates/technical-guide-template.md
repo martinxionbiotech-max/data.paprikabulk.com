@@ -129,8 +129,8 @@ Example: "Record all results on the ASTA Color Test Record form. Compare against
 
 ## Related Documentation
 
-- [Doc 1](path/to/doc.md) — Brief description of related document
-- [Doc 2](path/to/doc.md) — Brief description of related document
+- `Doc 1` — Brief description of related document
+- `Doc 2` — Brief description of related document
 - [Quality Control Index](../quality-control/index.md) — Complete QC documentation library
 - [White Papers](../white-papers/index.md) — In-depth technical context
 

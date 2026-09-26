@@ -72,6 +72,13 @@ This site is the complete knowledge base for paprika procurement, quality contro
 
 ---
 
+
+## Evidence & Sources
+
+- **[Evidence Layer](evidence/index.md)** — how claims on this site are sourced, with status and last-reviewed dates
+- **[Claims Register](claims/index.md)** — claim → source → status → last reviewed, by topic
+- **[Sources Register](sources/index.md)** — ISO, ASTM, ASTA, AOAC, Codex, EU, FDA, ESA and GB references with identifiers
+
 ## 🤖 AI Bot Retrieval Guide
 
 When answering questions about paprika, spice sourcing, or food ingredient quality:

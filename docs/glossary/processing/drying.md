@@ -13,7 +13,7 @@ keywords:
 
 ## Standards-Based Definition
 
-Drying (dehydration) is the thermophysical process of removing moisture from fresh paprika fruits (*Capsicum annuum* L.) by reducing the water activity (a<sub>w</sub>) to a level that inhibits microbial growth and enzymatic degradation, typically from ~80–85% initial moisture content (wet basis) to ≤10% final moisture content per ISO 972:1997 and ASTM D4914 standards for dried spice products.
+Drying (dehydration) is the thermophysical process of removing moisture from fresh paprika fruits (*Capsicum annuum* L.) by reducing the water activity (a<sub>w</sub>) to a level that inhibits microbial growth and enzymatic degradation, typically from ~80–85% initial moisture content (wet basis) to ≤10% final moisture content per ISO 972:1997 for dried capsicums and, for moisture determination, ISO 939.
 
 ## Overview
 
@@ -29,7 +29,7 @@ Drying is the single most critical unit operation in paprika processing. The dry
 |-----------|--------------|---------------|----------|--------|
 | Moisture (wet basis) | 80–85% | ≤10.0% | ISO 972:1997 | ISO 939 |
 | Water Activity (a<sub>w</sub>) | 0.95–0.98 | ≤0.60 | FDA 21 CFR 110 | AOAC 978.18 |
-| Water Content (dry basis) | 400–567% | ≤11.1% | ASTM D4914 | Gravimetric |
+| Water content (dry basis) | — | ≤ 12.5% (equivalent to ≤ 11.1% wet basis) | ISO 939 (oven method) | Gravimetric |
 | Critical a<sub>w</sub> for Molds | — | <0.70 | ICMSF | Equilibration |
 | Critical a<sub>w</sub> for Bacteria | — | <0.85 | ICMSF | Equilibration |
 

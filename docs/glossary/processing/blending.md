@@ -118,7 +118,7 @@ A: The blended product's shelf life follows the aging of the oldest component. I
 A: No, but practical limits exist: (1) traceability — each component batch must be individually traceable back to origin (HACCP recordkeeping requirement); (2) homogenization risk — blending more than 6 lots in a single run increases CoV; (3) ASTA averaging — mixing very divergent ASTA lots (±40+ points) creates uneven color distribution even in well-blended product.
 
 **Q: What blending capability does Dinweys offer for customer orders?**
-A: Dinweys operates multiple ribbon blenders (500–3,000 kg capacity) with precision weighing systems and validated mixing protocols. We maintain a diverse inventory of component lots from multiple growing regions (Xinjiang, Gansu, Inner Mongolia) at various ASTA levels (80–220), enabling precise spec targeting. Custom blends are documented with full formula traceability and post-blend COA verification.
+A: Dinweys operates multiple ribbon blenders (500–3,000 kg capacity) with precision weighing systems and validated mixing protocols. Custom blending can draw on component lots from multiple growing regions (Xinjiang, Gansu, Inner Mongolia), subject to availability at the time of order at various ASTA levels (80–220), enabling precise spec targeting. Custom blends are documented with full formula traceability and post-blend COA verification.
 
 ---
 

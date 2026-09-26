@@ -72,7 +72,7 @@ keywords:
 | US | 40 CFR Part 180 — EPA tolerances | GC-MS/MS — FDA PAM |
 | China | GB 2763 — limits per spice category | GC-MS/MS — GB 23200.113 |
 
-**Note:** Premium Grade is guaranteed EU MRL compliant as the default standard. Custom MRL regimes (US, Japan, Korea) available upon request.
+**Note:** Premium Grade is tested against EU MRL requirements using the method stated above; per-batch compliance is confirmed on the certificate of analysis. MRL regimes differ by market — confirm the destination requirement in the specification before ordering. Custom MRL regimes (US, Japan, Korea) available upon request.
 
 ---
 

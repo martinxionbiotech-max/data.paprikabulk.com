@@ -12,7 +12,7 @@ keywords:
 
 ## Definition
 
-ASTA (American Spice Trade Association) Color Value is the internationally standardized spectrophotometric measurement of the total red-orange coloring capacity of paprika and other red spice products, expressed as a dimensionless numerical value (e.g., ASTA 120, ASTA 180, ASTA 200). The official method is defined under **ASTA Method 20.1** (formerly ASTA 20.0), "Determination of Color – Spectrophotometric Method," and is referenced by the **International Organization for Standardization (ISO 7541:1989)** — "Ground (powdered) paprika — Determination of natural colouring matter content" — and by **European Spice Association (ESA)** quality standards.
+ASTA (American Spice Trade Association) Color Value is the internationally standardized spectrophotometric measurement of the total red-orange coloring capacity of paprika and other red spice products, expressed as a dimensionless numerical value (e.g., ASTA 120, ASTA 180, ASTA 200). The official method is defined under **ASTA Method 20.1** (formerly ASTA 20.0), "Determination of Color – Spectrophotometric Method," and is referenced by the **International Organization for Standardization (ISO 7541:1989 (withdrawn — superseded by ISO 7541:2020))** — "Ground (powdered) paprika — Determination of natural colouring matter content" — and by **European Spice Association (ESA)** quality standards.
 
 ## Overview
 
@@ -20,7 +20,7 @@ ASTA color value is the single most commercially important quality parameter for
 
 ## Technical Explanation
 
-**Measurement Method (ASTA 20.1 / ISO 7541:1989):**
+**Measurement Method (ASTA 20.1; the corresponding international standard is ISO 7541:2020 — the 1989 edition it replaced is withdrawn):**
 
 1. A representative ground sample (0.06–0.11 g, exact weight recorded) is extracted with 100 mL of reagent-grade acetone in a stoppered flask.
 2. The mixture is shaken for 30 minutes in the dark at ambient temperature (20–25°C).
@@ -66,8 +66,8 @@ ASTA color value is the single most commercially important quality parameter for
 
 | Standard | Title | Key Difference from ASTA 20.1 |
 |----------|-------|-------------------------------|
-| ASTM D6166-18 | Standard Test Method for Color of Oleoresinous Products | Uses alternative solvent system for oleoresins |
-| ISO 7541:1989 | Ground paprika — Determination of natural colouring matter content | Equivalent to ASTA 20.1 methodology |
+| ISO 7541:2020 | Spices and condiments — spectrophotometric determination of extractable colour in paprika (current edition) | International method; supersedes ISO 7541:1989 |
+| ISO 7541:1989 (withdrawn — superseded by ISO 7541:2020) | Ground paprika — Determination of natural colouring matter content | Equivalent to ASTA 20.1 methodology |
 | AOAC 971.28 | Color (Extractable) in Spices | Similar acetone extraction, slightly different calculation |
 | ESA Spec 3.0 | European Spice Association Quality Minima | References ASTA 20.1 for color; sets minimum ASTA 100 for paprika |
 

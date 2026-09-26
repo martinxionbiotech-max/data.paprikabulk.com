@@ -1,6 +1,5 @@
 ---
 title: [FAQ Topic]
-schema_type: FAQPage
 description: [Brief description of the FAQ topic covering the key questions and scope of this page]
 keywords:
 - [keyword1]
@@ -27,7 +26,7 @@ Each Q&A includes:
 
 [Detailed explanation — add context, data, method references, and practical implications. Include relevant numbers, standards references, and real-world examples where applicable.]
 
-**Related reading:** [Related Document](path/to/doc.md)
+**Related reading:** `Related Document`
 
 ## Q: [Question 2]?
 
@@ -35,7 +34,7 @@ Each Q&A includes:
 
 [Detailed explanation — expand with supporting data, regulatory context, or case study references. Explain not just the answer but why it matters in practice.]
 
-**Related reading:** [Related Document](path/to/doc.md)
+**Related reading:** `Related Document`
 
 ## Q: [Question 3]?
 
@@ -43,7 +42,7 @@ Each Q&A includes:
 
 [Detailed explanation.]
 
-**Related reading:** [Related Document](path/to/doc.md)
+**Related reading:** `Related Document`
 
 ## Q: [Question 4]?
 
@@ -51,7 +50,7 @@ Each Q&A includes:
 
 [Detailed explanation.]
 
-**Related reading:** [Related Document](path/to/doc.md)
+**Related reading:** `Related Document`
 
 ## Q: [Question 5]?
 
@@ -59,7 +58,7 @@ Each Q&A includes:
 
 [Detailed explanation.]
 
-**Related reading:** [Related Document](path/to/doc.md)
+**Related reading:** `Related Document`
 
 ## Quick Reference Table
 
@@ -90,9 +89,9 @@ Some questions are best answered with a direct conversation with your supplier. 
 
 ## Related Topics
 
-- [Related Topic 1](path/to/doc.md) — Brief description of related topic
-- [Related Topic 2](path/to/doc.md) — Brief description of related topic
-- [Related Topic 3](path/to/doc.md) — Brief description of related topic
+- `Related Topic 1` — Brief description of related topic
+- `Related Topic 2` — Brief description of related topic
+- `Related Topic 3` — Brief description of related topic
 - [FAQ Index](../index.md) — Browse all FAQ topics
 
 ---

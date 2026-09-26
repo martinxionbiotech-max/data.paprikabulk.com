@@ -51,7 +51,7 @@ The angle formed by the free-standing conical pile of powder poured through a fi
 
 | Method | AOR Range | Flow Character |
 |:------:|:---------:|:--------------:|
-| Fixed-height funnel (ASTM B213) | < 30° | Excellent |
+| Fixed-height funnel (Hall flowmeter method) | < 30° | Excellent |
 | | 30°–38° | Good |
 | | 38°–45° | Fair |
 | | 45°–55° | Poor |

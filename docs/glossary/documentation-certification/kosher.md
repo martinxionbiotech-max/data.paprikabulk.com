@@ -123,8 +123,9 @@ A: Dedicated lines are ideal but not always required. Production can be on share
 **Q: How do I handle a supply chain where my paprika supplier's kosher certificate has expired but my lot was produced during the valid period?**
 A: This is a common compliance issue. Solution: (1) the certificate at the time of production (not at time of shipping or receipt) governs the kosher status; (2) request a copy of the certificate that was valid on the production date; (3) if the certifying agency issues a back-dated letter confirming coverage, that is generally accepted; (4) if the renewal was delayed but coverage was continuous (most agencies provide grace period coverage), a later-issued certificate may retroactively cover the production. Best practice: require that the current certificate's validity covers both production date AND shipping date.
 
-**Q: Does Dinweys offer kosher-certified paprika?**
-A: Yes. Dinweys' paprika processing facility is certified by the Orthodox Union (OU), the most widely recognized kosher certifying agency globally. Our kosher certification covers all standard paprika products (ground powder, flakes, whole pods) processed on dedicated kosher production lines. The OU conducts quarterly unannounced inspections. Kosher certificates are provided with each shipment, and Passover certification is available by special arrangement. Our kosher-certified products serve clients throughout North America, Europe, and Israel.
+**Q: Does Dinweys offer kosher paprika?
+
+A: Kosher paprika is supplied **when the order requires it**, produced under a recognised kosher programme. The certifying agency, certificate number and validity are confirmed in writing for the specific order — the agency named on the certificate is the one to verify, not the one quoted in a brochure. Our kosher certification covers all standard paprika products (ground powder, flakes, whole pods) processed on dedicated kosher production lines. The OU conducts quarterly unannounced inspections. Kosher certificates are provided with each shipment, and Passover certification is available by special arrangement. Our kosher-certified products serve clients throughout North America, Europe, and Israel.
 
 ---
 

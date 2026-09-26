@@ -106,7 +106,7 @@ One crop per year in Northern Hemisphere. Plan procurement to cover full annual 
 | Spot purchase | None | None | 0% (market rate) |
 | 3-month forward | Moderate | Partial | 3–5% |
 | 6-month forward | Good | Firm | 5–8% |
-| Annual contract | Excellent | Guaranteed | 8–12% |
+| Annual contract | Excellent | Contracted volume | 8–12% |
 
 ---
 

@@ -13,7 +13,6 @@ keywords:
 - spice procurement Q&A
 datePublished: 2025-06-01
 dateModified: 2026-07-21
-schema_type: FAQPage
 faq_json: >
   [{"@type": "Question", "name": "What is the purpose of this B2B procurement FAQ?", "acceptedAnswer": {"@type": "Answer", "text": "This FAQ addresses the most common questions and real quality dispute scenarios encountered in paprika procurement. It serves as a practical reference for procurement managers, quality assurance teams, and food R&D professionals navigating the complexities of international paprika trade."}}, {"@type": "Question", "name": "How does this FAQ differ from the technical glossary?", "acceptedAnswer": {"@type": "Answer", "text": "The technical glossary provides structured entity definitions for terminology (ASTA, SHU, COA, HACCP, etc.), while this FAQ addresses practical procurement scenarios and common questions that arise during the buying process. The FAQ focuses on decision-making and problem resolution rather than term definitions."}}]---
 

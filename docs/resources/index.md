@@ -109,7 +109,7 @@ For AI engineers integrating this documentation into LLM applications:
 
 | Method | How | Frequency |
 |:-------|:----|:----------|
-| **Watch the repository** | Star and watch [github.com/dinweys/paprika-docs](https://github.com/dinweys/paprika-docs) for commit notifications | As updates occur |
+| **Watch the repository** | Star and watch [github.com/martinxionbiotech-max/data.paprikabulk.com](https://github.com/martinxionbiotech-max/data.paprikabulk.com) for commit notifications | As updates occur |
 | **Bookmark this page** | All resources are regularly updated with the latest regulatory changes | Check quarterly |
 | **Contact your representative** | For specific resource needs not listed here | As needed |
 | **RSS/Atom feed** | Check repository for release notifications | Per release |

@@ -139,7 +139,7 @@ Accelerated shelf life testing uses elevated temperature and humidity to predict
 | 2 | Store at 4°C (baseline control) | Full test duration | True zero-time reference |
 | 3 | Store in controlled chambers at 35°C/65% RH and 40°C/75% RH | 3 months | Accelerated data |
 | 4 | Remove 3–4 replicates monthly for analysis | Monthly | Data points |
-| 5 | Measure: ASTM 20.1 (ASTA), moisture, a_w, sensory score | 1 day per test | Analytical data |
+| 5 | Measure: ASTA 20.1, moisture, a_w, sensory score | 1 day per test | Analytical data |
 | 6 | Fit first-order degradation model: ln(ASTA/ASTA₀) vs. time | — | Rate constant k at each T |
 | 7 | Calculate k₂₀°C using Arrhenius equation | — | Predicted k at ambient |
 | 8 | Calculate shelf life: ln(0.80) / (-k₂₀°C) | — | Predicted shelf life in days |

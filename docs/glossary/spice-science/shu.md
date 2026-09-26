@@ -25,7 +25,7 @@ While paprika is predominantly a sweet (non-pungent) spice, some varieties and g
 | Method | Principle | Equipment | Precision | Key Standard |
 |--------|-----------|-----------|-----------|-------------|
 | **HPLC (Modern Gold Standard)** | Reverse-phase separation and UV detection of individual capsaicinoids | HPLC with C18 column, UV/Vis detector at 280 nm | ±3% RSD | ASTA 21.0, ISO 7543-2, AOAC 995.03 |
-| **Sensory Panel (Scoville Organoleptic)** | Serial dilution tasting by 5 trained panelists | Dilution tubes, sugar solution | ±20–50% RSD | ASTM E1083 (historical) |
+| **Sensory Panel (Scoville Organoleptic)** | Serial dilution tasting by 5 trained panelists | Dilution tubes, sugar solution | ±20–50% RSD | ASTM E1083-00(2017) |
 | **UV-Vis Spectrophotometry** | Total capsaicinoid extraction + colorimetric reaction | UV-Vis spectrophotometer at 650 nm | ±10% RSD | AOAC 43.111 |
 
 **HPLC-to-SHU Conversion Formula (per ASTA 21.0):**

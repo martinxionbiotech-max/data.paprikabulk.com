@@ -62,7 +62,7 @@ Despite the shipment being cleared, the team conducted a full review of the prod
 | Post-sterilization testing | ✅ Pass | AOAC 2011.03, n=60, c=0 (per ESA guidelines) |
 | Packaging environment (air sampling) | ✅ Pass | <10 CFU/plate environmental monitoring |
 | Finished product COA | ✅ Pass | Salmonella: Negative/25g, Enterobacteriaceae: <10 CFU/g |
-| Third-party audit (SGS) | ✅ Valid | FSSC 22000 certified, audit dated June 2025 |
+| Third-party audit (SGS) | ✅ Valid | third-party audited food-safety system (current certificate details on request) |
 
 **Conclusion:** The detention was a **regulatory association issue**, not a product quality issue. No root cause existed within Dinweys' control.
 
